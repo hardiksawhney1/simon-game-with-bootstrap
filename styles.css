@@ -8,6 +8,10 @@ body {
   font-size: 3rem;
   margin:  5%;
   color: #FEF2BF;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  letter-spacing: 2px;
 }
 
 .wrapper {
